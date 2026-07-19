@@ -1,0 +1,49 @@
+//  Runset file generated on Fri Jul 17 04:42:35 2026
+//  by Calibre Interactive v2022.2_15.10    Thu Apr 7 16:51:09 PDT 2022
+//
+//      *** PLEASE DO NOT MODIFY THIS FILE ***
+//
+//
+
+cmn.showOptionPages.value = [ "Database", "Options" ]
+xrc.rulesFile.value = "$RDS_TECH/$RDS_CDS_VERIFY_TECH/calibre/default_scr/PEX.header"
+xrc.layout.layoutFile.value = "pqc_top_wrapper.gds"
+cmn.layout.defFiles.value = [ "pqc_top_wrapper.def" ]
+xrc.layout.topCellLibrary.value = "pqc150debo"
+cmn.layout.topCellLibraryFDI.value = "pqc150debo"
+xrc.layout.topCell.value = "pqc_top_wrapper"
+xrc.layout.topCellView.value = "layout"
+cmn.layout.topCellViewFDI.value = "layout"
+xrc.source.format.value = "VERILOG"
+xrc.source.exportFromSourceViewer.value = false
+xrc.source.sourceFile.value = "/home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_top_wrapper_postRoute_withPG.v"
+xrc.source.topCellLibrary.value = "pqc150debo"
+xrc.source.topCellLibraryFDI.value = "pqc150debo"
+xrc.source.topCell.value = "pqc_top_wrapper"
+xrc.source.topCellFDI.value = "pqc_top_wrapper"
+xrc.xCells.xCellsFile.value = "hcells"
+xrc.pexCornerCommand.corners.specified = true
+xrc.pexNetlist.netlistFile.value = "pqc_top_wrapper.pex.netlist"
+xrc.pexNetlist.netlistFormat.value = "SPECTRE"
+xrc.pexNetlist.netlistFileViewAfterRun.value = true
+xrc.pexNetlist.scale.specified = true
+xrc.pexNetlist.location.value = true
+xrc.reports.lvsReport.value = "pqc_top_wrapper.lvs.report"
+xrc.reports.pexReport.value = "pqc_top_wrapper.pex.report"
+xrc.reports.pexReport.specified = true
+xrc.pexExcludeNets.layoutToplevelNets.value = [ "VSS", "VDD" ]
+xrc.supply.powerNames.value = [ "VDD_CORE" ]
+xrc.supply.powerNames.specified = true
+xrc.supply.groundNames.value = [ "VSS_CORE" ]
+xrc.supply.groundNames.specified = true
+
+xrc.v2LVSLibraries.vLOGLibFiles.value = [ "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/iopad/cio150/6M1L/verilog/tsl18cio150/zero/pc3o01.v", "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/iopad/cio150/6M1L/verilog/tsl18cio150/zero/pc3c01.v", "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/iopad/cio150/6M1L/verilog/tsl18cio150/zero/pc3d01.v", "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/iopad/cio150/6M1L/verilog/tsl18cio150/zero/pvda.v", "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/iopad/cio150/6M1L/verilog/tsl18cio150/zero/pv0a.v", "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/iopad/cio150/6M1L/verilog/tsl18cio150/zero/pvdi.v", "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/iopad/cio150/6M1L/verilog/tsl18cio150/zero/pv0i.v", "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/stdcell/fs120/6M1L/verilog/vcs_sim_model/tsl18fs120_scl.v" ]
+xrc.v2LVSLibraries.vLOGLibFiles.specified = true
+xrc.v2LVSLibraries.sPICELibFiles.value = [ "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/stdcell/fs120/6M1L/cdl/scl18fs120_supply_pins.cdl", "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/iopad/cio150/6M1L/cdl/tsl18cio150.cdl" ]
+xrc.v2LVSLibraries.sPICELibFiles.specified = true
+xrc.v2LVSLibraries.sPICEIncFiles.value = [ "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/iopad/cio150/6M1L/cdl/tsl18cio150.cdl", "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/stdcell/fs120/6M1L/cdl/scl18fs120_supply_pins.cdl" ]
+xrc.v2LVSLibraries.sPICEIncFiles.specified = true
+cmn.runsetPrefs.saveOnClose.value = "NOSAVE"
+xrc.setNameTemplate("nt_layFile", "%l.gds")
+xrc.setNameTemplate("nt_srcFile", "%s.cdl")
+xrc.setNameTemplate("nt_efSrcVwr", "1")

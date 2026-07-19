@@ -1,0 +1,499 @@
+********************************************************************************
+Product   : Virtuoso(R) XStream Out
+Program   : @(#)$CDS: strmout version 6.1.8-64b 08/09/2022 19:14 (cpgsrv11) $
+          : sub-version  IC6.1.8-64b.500.27 
+Started at: 17-Jul-2026  10:46:03
+User Name : debajyoti
+Host Name : nanodc.iitgn.ac.in
+Directory : /home/debajyoti/projects/pqc/work_libs/debajyoti/cds
+CADENCE Design Systems, Inc.
+********************************************************************************
+Info: Cellview Rev Num:99,  Tech Rev Num:59
+
+
+                       Individual Cell Statistics - Basic Objects
+---------------------------------------------------------------------------------------------------------------------------------------
+Library/Cell/View               Instance Array   Polygon  Rect   Path   PathSeg   Text   TextDisplay   Line   Dot   Arc   Donut   Ellipse 
+---------------------------------------------------------------------------------------------------------------------------------------
+pqc150_iit_new/subil_pvdicon_ESD/layout                         2613     0       2        138    0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M2_M1_LD/layout  0        0       0        176    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/pvdi/layout      9        0       0        4      0      0         70     0             0      0     0     0       0       
+pqc150_iit_new/subil_pngatering/layout                          0        0       7        155    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pv0acon_ESD/layout                         3462     0       0        245    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_cornerarray/layout                         1700     0       0        3      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_ppgate2buff/layout                         2        0       0        0      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_m_via/layout                               0        0       0        1      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pnbuff/layout                              8        0       0        1      0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M4_M3_LD/layout  0        0       0        717    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pp18esdinp/layout                          301      0       8        114    4      0         0      0             0      0     0     0       0       
+pqc150_iit_new/pfeed02000/layout                                0        0       0        488    0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M5_M4_LD/layout  0        0       0        3772   0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/ML_M5_LD/layout  0        0       0        18     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pnclkbuff/layout                           8        0       2        1      0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M3_M2/layout     0        0       0        27     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_m_ccp/layout                               1        0       0        2      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_m_cc/layout                                0        0       0        1      0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/ML_M5_LD/layout  0        0       0        674    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_iorule/layout                              0        0       0        3      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_ppgate2buffend/layout                      0        0       5        434    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_m_via2/layout                              0        0       0        2      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_clkpowermetal/layout                       18365    0       0        37     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_ppbuffpower/layout                         8        0       0        1      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_powerbase_ESD2/layout                      152      0       0        3      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/pqc_top_wrapper/layout                           13142    0       0        377    269    0         16     0             0      0     0     0       0       
+pqc150_iit_new/subil_pvdacon_ESD/layout                         4233     0       0        136    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/nd02d1/layout    0        0       12       14     0      0         7      0             0      0     0     0       0       
+pqc150_iit_new/subil_ppdriveo/layout                            635      0       10       47     1      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_powerbasevsso/layout                       203      0       0        7      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_powerbase_1/layout                         1511     0       4        11     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_clkblockcell/layout                        46       0       0        5      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/pc3d01/layout    10       0       0        2      0      0         69     0             0      0     0     0       0       
+pqc150_iit_new/subil_powermetalring/layout                      7085     0       3        105    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_ppbuffpower_0di_ESD22/layout               8        0       0        1      0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M2_M1/layout     0        0       0        4      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/pfeed10000/layout                                0        0       4        490    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_m_via5/layout                              0        0       0        2      0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/ML_M5_LD/layout  0        0       0        1976   0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pad/layout 2        0       0        1      0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/ML_M5_LD/layout  0        0       0        34     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pnbuff_ESD1/layout                         8        0       0        1      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pp18oencntl/layout                         113      0       4        303    2      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_m_via_546/layout                           0        0       0        2      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pnclkbasebuff/layout                       242      0       0        65     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pco01con/layout                            17       0       3        33     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pngate2buff/layout                         2        0       0        1      0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M3_M2_S/layout   0        0       0        3      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/inv0d1/layout    0        0       9        13     0      0         6      0             0      0     0     0       0       
+pqc150_iit_new/subil_pnbuff_ESD/layout                          8        0       0        1      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_ppgatebotringpower_0di/layout              43       0       6        194    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pviblockcell/layout                        0        0       0        1      0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M2_M1/layout     0        0       0        10     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_iorulepower/layout                         0        0       0        4      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_clkppbasebuff/layout                       6        0       0        64     0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M2_M1_S/layout   0        0       0        3      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_p100vdd/layout                             28       0       1        18     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pcd21con/layout                            26       0       5        12     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_powerbaseconvsso_ESD1/layout               33       0       4        44     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pngatebuff_ESD22/layout                    0        0       4        431    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_powerbasecon_ESD/layout                    38       0       4        39     0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M3_M2_LD/layout  0        0       0        24     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_midconer2/layout                           0        0       51       474    0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M3_M2/layout     0        0       0        50     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_clkpngatering/layout                       650      0       7        152    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_ppgate2buffpower_0di_ESD22/layout          2        0       0        1      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pngate2buff_ESD/layout                     2        0       0        1      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/nr03d1/layout    0        0       13       17     0      0         8      0             0      0     0     0       0       
+pqc150_iit_new/subil_ppolyres/layout                            28       0       0        7      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/aoim211d1/layout 0        0       17       22     0      0         9      0             0      0     0     0       0       
+pqc150_iit_new/pfeed01000/layout                                0        0       0        269    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/dl03d1/layout    0        0       19       20     0      0         6      0             0      0     0     0       0       
+pqc150_iit_new/subil_ppgateringpower_0di/layout                 0        0       3        380    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/dfcrb1/layout    0        0       38       56     0      0         11     0             0      0     0     0       0       
+pqc150_iit_new/pfeed00010/layout                                0        0       0        49     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/pv0a/layout      9        0       0        2      0      0         65     0             0      0     0     0       0       
+ts018_scl_prim/M5_M4_LD/layout  0        0       0        24     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/pfeed00120/layout                                12       0       0        1      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/feedth9/layout   0        0       6        18     0      0         4      0             0      0     0     0       0       
+pqc150_iit_new/nd03d1/layout    0        0       14       16     0      0         8      0             0      0     0     0       0       
+pqc150_iit_new/subil_pp18clkinout/layout                        2        0       0        8      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_ppbuff/layout                              248      0       0        2      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/pfeed30000/layout                                0        0       4        509    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/rpmpoly2t$$44660780/layout                       0        0       0        16     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_m_via3/layout                              0        0       0        2      0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M4_M3_S/layout   0        0       0        3      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pngate2buff_ESD1/layout                    2        0       0        1      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_vddcello/layout                            8        0       0        3      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pngatering_ESD22/layout                    0        0       7        147    0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M3_M2/layout     0        0       0        6      0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M4_M3_LD/layout  0        0       0        24     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pngate2buff_ESD122/layout                  2        0       0        1      0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/ML_M5_LD/layout  0        0       0        44     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pngatebuff_ESD/layout                      0        0       4        555    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_powerbasevsso_ESD/layout                   195      0       0        7      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pcappower/layout                           175      0       0        7      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_nwellres/layout                            4        0       0        9      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_4via_ESD/layout                            45       0       0        1      0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M5_M4_LD/layout  0        0       0        60     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/pc3o01/layout    11       0       0        2      0      0         69     0             0      0     0     0       0       
+pqc150_iit_new/dfcrq1/layout    0        0       36       53     0      0         10     0             0      0     0     0       0       
+pqc150_iit_new/pv0i/layout      9        0       0        3      0      0         70     0             0      0     0     0       0       
+pqc150_iit_new/subil_ppgate2buffpower/layout                    2        0       0        1      0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/ML_M5_LD/layout  0        0       0        338    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pvblockcell/layout                         0        0       0        1      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pdblockcell/layout                         12       0       3        10     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pdwellbias/layout                          55       0       1        11     0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M2_M1_S/layout   0        0       0        3      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pp18clkout/layout                          300      0       2        291    0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M5_M4_LD/layout  0        0       0        717    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_ppgatebuffpower/layout                     0        0       2        184    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pngate2buff_ESD22/layout                   2        0       0        1      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_ppdrive/layout                             632      0       11       42     1      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M4_M3_LD/layout  0        0       0        60     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_levelshiftio/layout                        74       0       13       218    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_ppgatebotring/layout                       47       0       4        177    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_powermetalring_ESD/layout                  6885     0       3        105    0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M2_M1_LD/layout  0        0       0        24     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_powermetal/layout                          21738    0       0        33     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pngatebuff_ESD122/layout                   0        0       4        563    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pnbuff_ESD22/layout                        8        0       0        1      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pddrive01/layout                           10       0       0        9      11     0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pngatering22/layout                        0        0       7        154    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pnbuff_ESD122/layout                       8        0       0        1      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_ppgate2bufftop/layout                      0        0       5        425    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_presistorpower/layout                      4        0       0        9      0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M4_M3_LD/layout  0        0       0        717    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_podrive01/layout                           4        0       0        1      0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M3_M2_LD/layout  0        0       0        60     0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/ML_M5_LD/layout  0        0       0        86     0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M5_M4_LD/layout  0        0       0        68     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_ppgatering/layout                          2        0       5        298    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/decrq1/layout    0        0       48       79     0      0         9      0             0      0     0     0       0       
+pqc150_iit_new/subil_psegment/layout                            3285     0       0        1101   0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pngatebuff_ESD1/layout                     0        0       4        564    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_ppgateringpower/layout                     0        0       3        381    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_powerbase_ESD1/layout                      99       0       0        2      0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M5_M4_LD/layout  0        0       0        5      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/pvda/layout      9        0       0        3      0      0         65     0             0      0     0     0       0       
+pqc150_iit_new/subil_pbbuffcon/layout                           530      0       0        9      2      0         0      0             0      0     0     0       0       
+pqc150_iit_new/pfrelr/layout    2        0       0        1      0      0         56     0             0      0     0     0       0       
+ts018_scl_prim/M2_M1_S/layout   0        0       0        3      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_poblockcell/layout                         7        0       2        7      0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M3_M2_LD/layout  0        0       0        4227   0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pngatebuff/layout                          0        0       4        567    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_clkppgatebotring/layout                    44       0       6        693    0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M2_M1_LD/layout  0        0       0        60     0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M4_M3_LD/layout  0        0       0        68     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_clkppgatering/layout                       0        0       4        732    0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M1_PO_4X/layout  0        0       0        8      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_ppgatebuff/layout                          0        0       4        308    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_ppwellbiaso/layout                         40       0       2        8      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/feedth3/layout   0        0       6        10     0      0         4      0             0      0     0     0       0       
+pqc150_iit_new/subil_powermetalring_ESD2/layout                 7161     0       4        105    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_p18vdd32/layout                            72       0       0        19     0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M4_M3_LD/layout  0        0       0        5      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/oai21d1/layout   0        0       14       18     0      0         8      0             0      0     0     0       0       
+ts018_scl_prim/M5_M4_LD/layout  0        0       0        176    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_vddcell1/layout                            8        0       0        6      0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M3_M2_LD/layout  0        0       0        68     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pp18input01/layout                         230      0       11       103    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_m_via4/layout                              0        0       0        2      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pv0icon_ESD/layout                         2633     0       5        171    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_vddring/layout                             210      0       1        27     0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M3_M2_LD/layout  0        0       0        5      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/buffd1/layout    0        0       12       15     0      0         6      0             0      0     0     0       0       
+pqc150_iit_new/subil_padmetal/layout                            146      0       0        10     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_via2array/layout                           2312     0       0        2      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_clk1x/layout                               3631     0       3        32     0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M4_M3_LD/layout  0        0       0        176    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/pc3c01/layout    6        0       0        1      0      0         68     0             0      0     0     0       0       
+ts018_scl_prim/M2_M1/layout     0        0       0        8      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pobuffcon/layout                           510      0       0        7      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_preside/layout                             298      0       0        15     0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/ML_M5_LD/layout  0        0       0        130    0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M2_M1_LD/layout  0        0       0        68     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/oan211d1/layout  0        0       16       21     0      0         9      0             0      0     0     0       0       
+pqc150_iit_new/subil_ppgatebuffpower_0di_ESD22/layout           0        0       2        183    0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M1_PO_4X/layout  0        0       0        4      0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M2_M1_S/layout   0        0       0        3      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_powermetalring_ESD1/layout                 7085     0       4        104    0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_p3obulkcon/layout                          22       0       0        12     1      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_dio46/layout                               3        0       0        6      0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M3_M2_S/layout   0        0       0        3      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_ppgatebotringpower/layout                  43       0       6        195    0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M2_M1_LD/layout  0        0       0        5      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_m_via2_545/layout                          0        0       0        2      0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M3_M2_LD/layout  0        0       0        176    0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/ML_M5_LD/layout  0        0       0        1766   0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/cnwnmos_thn2t$$44657708/layout                   0        0       1        69     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pp18clkin/layout                           122      0       2        84     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_ppclkbuff/layout                           52       0       2        3      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pp18clkdrive/layout                        3606     0       11       22     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_powerbaseconvsso_ESD/layout                37       0       3        42     0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/pfeed00040/layout                                4        0       0        1      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/feedth/layout    0        0       0        8      0      0         4      0             0      0     0     0       0       
+ts018_scl_prim/M5_M4_LD/layout  0        0       0        717    0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M3_M2/layout     0        0       0        4      0      0         0      0             0      0     0     0       0       
+ts018_scl_prim/M2_M1/layout     0        0       0        5      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_via1array/layout                           3570     0       0        2      0      0         0      0             0      0     0     0       0       
+pqc150_iit_new/subil_pdiodepower/layout                         387      0       6        38     0      0         0      0             0      0     0     0       0       
+---------------------------------------------------------------------------------------------------------------------------------------
+
+                       Individual Cell Statistics - Advanced Objects
+---------------------------------------------------------------------------------------------------------------------------------------
+Library/Cell/View               PRBdy    OtherBdy   AreaBlkg   LayerBlkg  AreaHalo   Row   Marker   CustVia   StdVia    CdsGenVia
+---------------------------------------------------------------------------------------------------------------------------------------
+pqc150_iit_new/subil_pvdicon_ESD/layout                         0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M2_M1_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/pvdi/layout      0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pngatering/layout                          0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pv0acon_ESD/layout                         0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_cornerarray/layout                         0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_ppgate2buff/layout                         0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_m_via/layout                               0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pnbuff/layout                              0        0          0          0          0          0     0        0         6         0        
+ts018_scl_prim/M4_M3_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pp18esdinp/layout                          0        0          0          0          0          0     0        0         6         0        
+pqc150_iit_new/pfeed02000/layout                                0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M5_M4_LD/layout  0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/ML_M5_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pnclkbuff/layout                           0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M3_M2/layout     0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_m_ccp/layout                               0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_m_cc/layout                                0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/ML_M5_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_iorule/layout                              0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_ppgate2buffend/layout                      0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_m_via2/layout                              0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_clkpowermetal/layout                       0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_ppbuffpower/layout                         0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_powerbase_ESD2/layout                      0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/pqc_top_wrapper/layout                           0        0          0          0          0          0     0        0         4000      0        
+pqc150_iit_new/subil_pvdacon_ESD/layout                         0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/nd02d1/layout    0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_ppdriveo/layout                            0        0          0          0          0          0     0        0         4         0        
+pqc150_iit_new/subil_powerbasevsso/layout                       0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_powerbase_1/layout                         0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_clkblockcell/layout                        0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/pc3d01/layout    0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_powermetalring/layout                      0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_ppbuffpower_0di_ESD22/layout               0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M2_M1/layout     0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/pfeed10000/layout                                0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_m_via5/layout                              0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/ML_M5_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pad/layout 0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/ML_M5_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pnbuff_ESD1/layout                         0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pp18oencntl/layout                         0        0          0          0          0          0     0        0         1         0        
+pqc150_iit_new/subil_m_via_546/layout                           0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pnclkbasebuff/layout                       0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pco01con/layout                            0        0          0          0          0          0     0        0         1         0        
+pqc150_iit_new/subil_pngate2buff/layout                         0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M3_M2_S/layout   0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/inv0d1/layout    0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pnbuff_ESD/layout                          0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_ppgatebotringpower_0di/layout              0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pviblockcell/layout                        0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M2_M1/layout     0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_iorulepower/layout                         0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_clkppbasebuff/layout                       0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M2_M1_S/layout   0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_p100vdd/layout                             0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pcd21con/layout                            0        0          0          0          0          0     0        0         1         0        
+pqc150_iit_new/subil_powerbaseconvsso_ESD1/layout               0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pngatebuff_ESD22/layout                    0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_powerbasecon_ESD/layout                    0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M3_M2_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_midconer2/layout                           0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M3_M2/layout     0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_clkpngatering/layout                       0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_ppgate2buffpower_0di_ESD22/layout          0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pngate2buff_ESD/layout                     0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/nr03d1/layout    0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_ppolyres/layout                            0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/aoim211d1/layout 0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/pfeed01000/layout                                0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/dl03d1/layout    0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_ppgateringpower_0di/layout                 0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/dfcrb1/layout    0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/pfeed00010/layout                                0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/pv0a/layout      0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M5_M4_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/pfeed00120/layout                                0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/feedth9/layout   0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/nd03d1/layout    0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pp18clkinout/layout                        0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_ppbuff/layout                              0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/pfeed30000/layout                                0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/rpmpoly2t$$44660780/layout                       0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_m_via3/layout                              0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M4_M3_S/layout   0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pngate2buff_ESD1/layout                    0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_vddcello/layout                            0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pngatering_ESD22/layout                    0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M3_M2/layout     0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M4_M3_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pngate2buff_ESD122/layout                  0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/ML_M5_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pngatebuff_ESD/layout                      0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_powerbasevsso_ESD/layout                   0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pcappower/layout                           0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_nwellres/layout                            0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_4via_ESD/layout                            0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M5_M4_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/pc3o01/layout    0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/dfcrq1/layout    0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/pv0i/layout      0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_ppgate2buffpower/layout                    0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/ML_M5_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pvblockcell/layout                         0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pdblockcell/layout                         0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pdwellbias/layout                          0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M2_M1_S/layout   0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pp18clkout/layout                          0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M5_M4_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_ppgatebuffpower/layout                     0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pngate2buff_ESD22/layout                   0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_ppdrive/layout                             0        0          0          0          0          0     0        0         4         0        
+ts018_scl_prim/M4_M3_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_levelshiftio/layout                        0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_ppgatebotring/layout                       0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_powermetalring_ESD/layout                  0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M2_M1_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_powermetal/layout                          0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pngatebuff_ESD122/layout                   0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pnbuff_ESD22/layout                        0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pddrive01/layout                           0        0          0          0          0          0     0        0         7         0        
+pqc150_iit_new/subil_pngatering22/layout                        0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pnbuff_ESD122/layout                       0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_ppgate2bufftop/layout                      0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_presistorpower/layout                      0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M4_M3_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_podrive01/layout                           0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M3_M2_LD/layout  0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/ML_M5_LD/layout  0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M5_M4_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_ppgatering/layout                          0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/decrq1/layout    0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_psegment/layout                            0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pngatebuff_ESD1/layout                     0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_ppgateringpower/layout                     0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_powerbase_ESD1/layout                      0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M5_M4_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/pvda/layout      0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pbbuffcon/layout                           0        0          0          0          0          0     0        0         1         0        
+pqc150_iit_new/pfrelr/layout    0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M2_M1_S/layout   0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_poblockcell/layout                         0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M3_M2_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pngatebuff/layout                          0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_clkppgatebotring/layout                    0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M2_M1_LD/layout  0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M4_M3_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_clkppgatering/layout                       0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M1_PO_4X/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_ppgatebuff/layout                          0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_ppwellbiaso/layout                         0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/feedth3/layout   0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_powermetalring_ESD2/layout                 0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_p18vdd32/layout                            0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M4_M3_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/oai21d1/layout   0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M5_M4_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_vddcell1/layout                            0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M3_M2_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pp18input01/layout                         0        0          0          0          0          0     0        0         1         0        
+pqc150_iit_new/subil_m_via4/layout                              0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pv0icon_ESD/layout                         0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_vddring/layout                             0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M3_M2_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/buffd1/layout    0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_padmetal/layout                            0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_via2array/layout                           0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_clk1x/layout                               0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M4_M3_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/pc3c01/layout    0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M2_M1/layout     0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pobuffcon/layout                           0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_preside/layout                             0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/ML_M5_LD/layout  0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M2_M1_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/oan211d1/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_ppgatebuffpower_0di_ESD22/layout           0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M1_PO_4X/layout  0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M2_M1_S/layout   0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_powermetalring_ESD1/layout                 0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_p3obulkcon/layout                          0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_dio46/layout                               0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M3_M2_S/layout   0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_ppgatebotringpower/layout                  0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M2_M1_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_m_via2_545/layout                          0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M3_M2_LD/layout  0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/ML_M5_LD/layout  0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/cnwnmos_thn2t$$44657708/layout                   0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pp18clkin/layout                           0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_ppclkbuff/layout                           0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pp18clkdrive/layout                        0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_powerbaseconvsso_ESD/layout                0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/pfeed00040/layout                                0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/feedth/layout    0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M5_M4_LD/layout  0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M3_M2/layout     0        0          0          0          0          0     0        0         0         0        
+ts018_scl_prim/M2_M1/layout     0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_via1array/layout                           0        0          0          0          0          0     0        0         0         0        
+pqc150_iit_new/subil_pdiodepower/layout                         0        0          0          0          0          0     0        0         0         0        
+---------------------------------------------------------------------------------------------------------------------------------------
+
+                       Statistics of Layers 
+---------------------------------------------------------------------------------------------------------------------------------------
+Cadence         Cadence         Stream  Stream   
+Layer           Purpose         Layer   Datatype  Polygon  Rect     Path     Text     TextDisplay   Line Dot Arc Donut Ellipse Pathseg
+---------------------------------------------------------------------------------------------------------------------------------------
+XN              drawing         32      0         44       75       0        0        0             0    0   0   0     0      0      
+WN              drawing         3       0         9        64       0        0        0             0    0   0   0     0      0      
+TOP_M           drawing         50      0         7        104      0        0        0             0    0   0   0     0      0      
+V3              drawing         43      0         0        6683     0        0        0             0    0   0   0     0      0      
+V4              drawing         45      0         0        1755     0        0        0             0    0   0   0     0      0      
+DEV_AREA        cvs             77      58        0        1        0        0        0             0    0   0   0     0      0      
+M5              label           48      7         0        0        0        114      0             0    0   0   0     0      0      
+ACTIVE          drawing         9       0         73       214      0        0        0             0    0   0   0     0      0      
+ACTIVE          dummy           9       8         0        1        0        0        0             0    0   0   0     0      0      
+TOP_M           label           50      7         0        0        0        114      0             0    0   0   0     0      0      
+DEV_AREA        res             77      42        0        4        0        0        0             0    0   0   0     0      0      
+ACTIVE_noconn   esd             9       50        0        12       0        0        0             0    0   0   0     0      0      
+TOP_V           drawing         49      0         0        5049     0        0        0             0    0   0   0     0      0      
+DEV_AREA        cap             77      43        0        1        0        0        0             0    0   0   0     0      0      
+GC              label           8       7         0        0        0        4        0             0    0   0   0     0      0      
+M1              label           40      7         0        0        0        105      0             0    0   0   0     0      0      
+DEV_AREA        esd             77      50        0        4        0        0        0             0    0   0   0     0      0      
+GC              drawing         8       0         95       134      1        0        0             0    0   0   0     0      0      
+AREA2           drawing         72      0         16       49       0        0        0             0    0   0   0     0      0      
+M4              drawing         46      0         8        108      7        0        0             0    0   0   0     0      0      
+prBoundary      drawing         235     0         0        139      0        0        0             0    0   0   0     0      0      
+V5              drawing         47      0         0        5524     0        0        0             0    0   0   0     0      0      
+PAD             drawing         68      0         0        3        0        0        0             0    0   0   0     0      0      
+M3              label           44      7         0        0        0        112      0             0    0   0   0     0      0      
+V2              drawing         41      0         0        2676     0        0        0             0    0   0   0     0      0      
+CS              drawing         34      0         0        8525     0        0        0             0    0   0   0     0      0      
+DEV_AREA        dio             77      44        0        11       0        0        0             0    0   0   0     0      0      
+M3              drawing         44      0         29       198      77       0        0             0    0   0   0     0      0      
+M5              drawing         48      0         12       154      0        0        0             0    0   0   0     0      0      
+NS              drawing         88      0         12       2        0        0        0             0    0   0   0     0      0      
+M2              label           42      7         0        0        0        94       0             0    0   0   0     0      0      
+WN              vss             3       51        0        8        0        0        0             0    0   0   0     0      0      
+XP              drawing         31      0         47       79       0        0        0             0    0   0   0     0      0      
+M4              label           46      7         0        0        0        114      0             0    0   0   0     0      0      
+M1              drawing         40      0         171      700      48       0        0             0    0   0   0     0      0      
+GC              dummy           8       8         0        1        0        0        0             0    0   0   0     0      0      
+M2              drawing         42      0         39       327      158      0        0             0    0   0   0     0      0      
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Summary of Objects Translated:
+	Scalar Instances:		121419
+	Array Instances:		0
+	Polygons:			562
+	Paths:				291
+	Rectangles:			32605
+	Lines:				0
+	Arcs:				0
+	Donuts:				0
+	Dots:				0
+	Ellipses:			0
+	Boundaries:			0
+	Area Blockages:			0
+	Layer Blockages:		0
+	Area Halos:			0
+	Markers:			0
+	Rows:				0
+	Standard Vias:			4032
+	Custom Vias:			0
+	CdsGen Vias:			0
+	Pathsegs:			0
+	Text:				657
+	TextDisplay:		0
+	Cells:				201
+Design Libraries: 
+
+DEFINE pqc150_iit_new	/home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc150_iit_new
+DEFINE ts018_scl_prim	/home/debajyoti/projects/pqc/cds_master/SCLSL18_6M1L/ts018_scl_prim

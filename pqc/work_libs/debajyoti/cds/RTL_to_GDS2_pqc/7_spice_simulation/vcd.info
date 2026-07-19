@@ -1,0 +1,9 @@
+.scope pqc_top_wrapper
+.in clk rst_n start sw[0] sw[1] sw[2] sw[3]
+.out led[0] led[1] led[2] led[3]
+.vih 1.8
+.vil 0.0
+.voh 1.8
+.vol 0.0
+.trise 0.1 clk rst_n start sw[0] sw[1] sw[2] sw[3]
+.tfall 0.1 clk rst_n start sw[0] sw[1] sw[2] sw[3]

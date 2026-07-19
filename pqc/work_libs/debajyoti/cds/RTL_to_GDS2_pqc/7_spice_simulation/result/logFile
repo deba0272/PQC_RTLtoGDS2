@@ -1,0 +1,36 @@
+HEADER
+"PSFversion" "1.00"
+"Log Generator" "drlLog rev. 1.0"
+"Log Time Stamp" "Fri Jul 17 11:29:14 2026"
+"psfversion" ""
+"simulator" "spectre"
+"version" "20.1.0.298.isr9"
+"date" "11:29:14 AM, Fri Jul 17, 2026"
+"design" "* PQC Top Wrapper Post-Layout PEX Simulation Deck"
+"signalNameType" "spectre"
+"simMode" "Spectre"
+"measdgt" 0
+"ingold" 2
+"sst2usecolon" 0
+TYPE
+"analysisInst" STRUCT(
+"analysisType" STRING *
+"dataFile" STRING *
+"format" STRING *
+"parent" STRING *
+"sweepVariable" ARRAY ( * ) STRING *
+"description" STRING *
+)
+VALUE
+"timeSweep-tran" "analysisInst" (
+"tran"
+"timeSweep.tran.tran"
+"PSF"
+""
+("time")
+"Transient Analysis `timeSweep': time = (0 s -> 18 us)"
+) PROP(
+"data_type" "swept_scalar"
+)
+
+END

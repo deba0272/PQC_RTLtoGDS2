@@ -1,0 +1,8 @@
+# project.lib for Project pqc 
+
+DEFINE pqc_master  /home/debajyoti/projects/pqc/cds_master/design  
+
+INCLUDE $RDS_CDS_LIB_VERS
+
+UNDEFINE ts018_scl_prim
+DEFINE ts018_scl_prim /home/debajyoti/projects/pqc/cds_master/SCLSL18_6M1L/ts018_scl_prim

@@ -1,0 +1,527 @@
+
+LVS Netlist Compiler - Errors and Warnings for "/home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_top_wrapper_postRoute_withPG.v.v2lvs.sp"
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Warning: Duplicate subckt definition "buffd1" at line 7 in file "/home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_top_wrapper_postRoute_withPG.v.v2lvs.sp"
+         previously defined at line 1881 in file "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/stdcell/fs120/6M1L/cdl/scl18fs120_supply_pins.cdl"
+Warning: Duplicate subckt definition "dl03d1" at line 10 in file "/home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_top_wrapper_postRoute_withPG.v.v2lvs.sp"
+         previously defined at line 3402 in file "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/stdcell/fs120/6M1L/cdl/scl18fs120_supply_pins.cdl"
+Warning: Duplicate subckt definition "dfcrq1" at line 13 in file "/home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_top_wrapper_postRoute_withPG.v.v2lvs.sp"
+         previously defined at line 2941 in file "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/stdcell/fs120/6M1L/cdl/scl18fs120_supply_pins.cdl"
+Warning: Duplicate subckt definition "decrq1" at line 16 in file "/home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_top_wrapper_postRoute_withPG.v.v2lvs.sp"
+         previously defined at line 2191 in file "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/stdcell/fs120/6M1L/cdl/scl18fs120_supply_pins.cdl"
+Warning: Duplicate subckt definition "nd02d1" at line 19 in file "/home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_top_wrapper_postRoute_withPG.v.v2lvs.sp"
+         previously defined at line 4542 in file "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/stdcell/fs120/6M1L/cdl/scl18fs120_supply_pins.cdl"
+Warning: Duplicate subckt definition "oan211d1" at line 22 in file "/home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_top_wrapper_postRoute_withPG.v.v2lvs.sp"
+         previously defined at line 5997 in file "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/stdcell/fs120/6M1L/cdl/scl18fs120_supply_pins.cdl"
+Warning: Duplicate subckt definition "oai21d1" at line 25 in file "/home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_top_wrapper_postRoute_withPG.v.v2lvs.sp"
+         previously defined at line 5110 in file "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/stdcell/fs120/6M1L/cdl/scl18fs120_supply_pins.cdl"
+Warning: Duplicate subckt definition "nr03d1" at line 28 in file "/home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_top_wrapper_postRoute_withPG.v.v2lvs.sp"
+         previously defined at line 4872 in file "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/stdcell/fs120/6M1L/cdl/scl18fs120_supply_pins.cdl"
+Warning: Duplicate subckt definition "aoim211d1" at line 31 in file "/home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_top_wrapper_postRoute_withPG.v.v2lvs.sp"
+         previously defined at line 1036 in file "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/stdcell/fs120/6M1L/cdl/scl18fs120_supply_pins.cdl"
+Warning: Duplicate subckt definition "nd03d1" at line 34 in file "/home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_top_wrapper_postRoute_withPG.v.v2lvs.sp"
+         previously defined at line 4584 in file "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/stdcell/fs120/6M1L/cdl/scl18fs120_supply_pins.cdl"
+Warning: Duplicate subckt definition "inv0d1" at line 37 in file "/home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_top_wrapper_postRoute_withPG.v.v2lvs.sp"
+         previously defined at line 3441 in file "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/stdcell/fs120/6M1L/cdl/scl18fs120_supply_pins.cdl"
+Warning: Duplicate subckt definition "dfcrb1" at line 40 in file "/home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_top_wrapper_postRoute_withPG.v.v2lvs.sp"
+         previously defined at line 2808 in file "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/stdcell/fs120/6M1L/cdl/scl18fs120_supply_pins.cdl"
+Warning: Duplicate subckt definition "pc3c01" at line 43 in file "/home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_top_wrapper_postRoute_withPG.v.v2lvs.sp"
+         previously defined at line 2636 in file "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/iopad/cio150/6M1L/cdl/tsl18cio150.cdl"
+Warning: Duplicate subckt definition "pc3d01" at line 46 in file "/home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_top_wrapper_postRoute_withPG.v.v2lvs.sp"
+         previously defined at line 2892 in file "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/iopad/cio150/6M1L/cdl/tsl18cio150.cdl"
+Warning: Duplicate subckt definition "pvdi" at line 49 in file "/home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_top_wrapper_postRoute_withPG.v.v2lvs.sp"
+         previously defined at line 9530 in file "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/iopad/cio150/6M1L/cdl/tsl18cio150.cdl"
+Warning: Duplicate subckt definition "pv0i" at line 52 in file "/home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_top_wrapper_postRoute_withPG.v.v2lvs.sp"
+         previously defined at line 9398 in file "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/iopad/cio150/6M1L/cdl/tsl18cio150.cdl"
+Warning: Duplicate subckt definition "pvda" at line 55 in file "/home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_top_wrapper_postRoute_withPG.v.v2lvs.sp"
+         previously defined at line 9438 in file "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/iopad/cio150/6M1L/cdl/tsl18cio150.cdl"
+Warning: Duplicate subckt definition "pv0a" at line 58 in file "/home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_top_wrapper_postRoute_withPG.v.v2lvs.sp"
+         previously defined at line 9272 in file "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/iopad/cio150/6M1L/cdl/tsl18cio150.cdl"
+Warning: Duplicate subckt definition "pc3o01" at line 61 in file "/home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_top_wrapper_postRoute_withPG.v.v2lvs.sp"
+         previously defined at line 4055 in file "/opt/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/iopad/cio150/6M1L/cdl/tsl18cio150.cdl"
+
+
+
+
+                  ##################################################
+                  ##                                              ##
+                  ##         C A L I B R E    S Y S T E M         ##
+                  ##                                              ##
+                  ##             L V S   R E P O R T              ##
+                  ##                                              ##
+                  ##################################################
+
+
+
+REPORT FILE NAME:         pqc_top_wrapper.lvs.report
+LAYOUT NAME:              svdb/pqc_top_wrapper.sp ('pqc_top_wrapper')
+SOURCE NAME:              /home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_top_wrapper_postRoute_withPG.v.v2lvs.sp ('pqc_top_wrapper')
+RULE FILE:                _PEX.header_
+CREATION TIME:            Fri Jul 17 10:46:16 2026
+CURRENT DIRECTORY:        /home/debajyoti/projects/pqc/work_libs/debajyoti/cds
+USER NAME:                debajyoti
+CALIBRE VERSION:          v2022.2_15.10    Thu Apr 7 16:51:04 PDT 2022
+
+
+
+                               OVERALL COMPARISON RESULTS
+
+
+
+                  #   #         #####################  
+                   # #          #                   #  
+                    #           #     INCORRECT     #  
+                   # #          #                   #  
+                  #   #         #####################  
+
+
+  Error:    Different numbers of ports.
+  Warning:  Ambiguity points were found and resolved arbitrarily.
+
+
+**************************************************************************************************************
+                                      CELL  SUMMARY
+**************************************************************************************************************
+
+  Result         Layout                        Source
+  -----------    -----------                   --------------
+  INCORRECT      pqc_top_wrapper               pqc_top_wrapper
+
+
+
+**************************************************************************************************************
+                                      LVS PARAMETERS
+**************************************************************************************************************
+
+
+o LVS Setup:
+
+   // LVS COMPONENT TYPE PROPERTY
+   // LVS COMPONENT SUBTYPE PROPERTY
+   // LVS PIN NAME PROPERTY
+   LVS POWER NAME                         "VDD_CORE"
+   LVS GROUND NAME                        "VSS_CORE"
+   LVS CELL SUPPLY                        NO
+   LVS RECOGNIZE GATES                    ALL
+   // LVS HCELL REPORT
+   LVS IGNORE PORTS                       NO
+   LVS CHECK PORT NAMES                   YES
+   LVS IGNORE TRIVIAL NAMED PORTS         NO
+   LVS BUILTIN DEVICE PIN SWAP            YES
+   LVS ALL CAPACITOR PINS SWAPPABLE       NO
+   LVS DISCARD PINS BY DEVICE             NO
+   LVS SOFT SUBSTRATE PINS                NO
+   LVS INJECT LOGIC                       NO
+   LVS EXPAND UNBALANCED CELLS            YES
+   LVS FLATTEN INSIDE CELL                NO
+   LVS EXPAND SEED PROMOTIONS             NO
+   LVS PRESERVE PARAMETERIZED CELLS       NO
+   LVS GLOBALS ARE PORTS                  YES
+   LVS RELAX INITIAL CPOINTS              NONE
+   LVS REVERSE WL                         NO
+   // LVS NETLIST FILTER DEVICES          NO
+   // LVS PRESERVE BOX PORTS              NO
+   LVS SPICE PREFER PINS                  NO
+   LVS SPICE SLASH IS SPACE               YES
+   LVS SPICE ALLOW FLOATING PINS          YES
+   // LVS SPICE ALLOW INLINE PARAMETERS     
+   LVS SPICE ALLOW UNQUOTED STRINGS       NO
+   LVS SPICE CONDITIONAL LDD              NO
+   LVS SPICE CULL PRIMITIVE SUBCIRCUITS   NO
+   // LVS SPICE EXCLUDE CELL SOURCE
+   // LVS SPICE EXCLUDE CELL LAYOUT
+   LVS SPICE IMPLIED MOS AREA             NO
+   // LVS SPICE MULTIPLIER NAME
+   LVS SPICE OVERRIDE GLOBALS             NO
+   LVS SPICE REDEFINE PARAM               NO
+   LVS SPICE REPLICATE DEVICES            YES
+   LVS SPICE SCALE X PARAMETERS           NO
+   LVS SPICE STRICT WL                    NO
+   // LVS SPICE OPTION
+   LVS STRICT SUBTYPES                    NO
+   LVS EXACT SUBTYPES                     NO
+   LAYOUT CASE                            YES
+   SOURCE CASE                            YES
+   LVS COMPARE CASE                       NO
+   LVS COMPARE CASE STRICT                NO
+   LVS DOWNCASE DEVICE                    NO
+   LVS REPORT MAXIMUM                     ALL
+   LVS PROPERTY RESOLUTION MAXIMUM        32
+   // LVS SIGNATURE MAXIMUM
+   LVS FILTER UNUSED OPTION               AB RC RE RG
+   LVS REPORT OPTION                      S
+   LVS REPORT UNITS                       YES
+   // LVS NON USER NAME PORT
+   // LVS NON USER NAME NET
+   // LVS NON USER NAME INSTANCE
+   // LVS IGNORE DEVICE PIN
+   // LVS PREFER NETS FILTER SOURCE
+   // LVS PREFER NETS FILTER LAYOUT
+   LVS PREFER PORT NETS                   NO
+   LVS EXPAND ON ERROR                    NO
+   LVS EXPAND AMBIGUOUSLY HIGH SHORTED HCELLS NO
+
+   // Reduction
+
+   LVS REDUCE SERIES MOS                  NO
+   LVS REDUCE PARALLEL MOS                YES
+   LVS REDUCE SEMI SERIES MOS             NO
+   LVS REDUCE SPLIT GATES                 YES
+   LVS REDUCE PARALLEL BIPOLAR            YES
+   LVS REDUCE SERIES CAPACITORS           NO
+   LVS REDUCE PARALLEL CAPACITORS         NO
+   LVS REDUCE SERIES RESISTORS            YES
+   LVS REDUCE PARALLEL RESISTORS          YES
+   LVS REDUCE PARALLEL DIODES             YES
+
+   LVS REDUCE  Q(VD)  PARALLEL
+   LVS REDUCE  Q(VD5)  PARALLEL
+   LVS REDUCE  Q(VD10)  PARALLEL
+   LVS REDUCE  Q(VH)  PARALLEL
+   LVS REDUCE  Q(VH5)  PARALLEL
+   LVS REDUCE  Q(VH10)  PARALLEL
+   LVS REDUCE  Q(VDN5)  PARALLEL
+   LVS REDUCE  C(CL)  PARALLEL
+   LVS REDUCE  C(CH)  PARALLEL
+   LVS REDUCE  C(CH3)  PARALLEL
+   LVS REDUCE  C(ch53t)  PARALLEL
+   LVS REDUCE  C(CL3)  PARALLEL
+   LVS REDUCE  C(CB)  PARALLEL
+   LVS REDUCE  C(cmim_hc)  PARALLEL
+   LVS REDUCE  C(cmim_uhd)  PARALLEL
+   LVS REDUCE  C(cmim_stk)  PARALLEL
+   LVS REDUCE  C(cmim_uhdstk)  PARALLEL
+   LVS REDUCE  D(W3)  PARALLEL NO
+   LVS REDUCE  D(DW)  PARALLEL NO
+   LVS REDUCE  MN(NH)  PARALLEL [ TOLERANCE rf_flag 0 ]
+   LVS REDUCE  MN(N5)  PARALLEL [ TOLERANCE rf_flag 0 ]
+   LVS REDUCE  MN(N)  PARALLEL [ TOLERANCE rf_flag 0 ]
+   LVS REDUCE  MN(n18hvt)  PARALLEL [ TOLERANCE rf_flag 0 ]
+   LVS REDUCE  MN(n18lvt)  PARALLEL [ TOLERANCE rf_flag 0 ]
+   LVS REDUCE  MP(P)  PARALLEL [ TOLERANCE rf_flag 0 ]
+   LVS REDUCE  MP(p18hvt)  PARALLEL [ TOLERANCE rf_flag 0 ]
+   LVS REDUCE  MP(p18lvt)  PARALLEL [ TOLERANCE rf_flag 0 ]
+   LVS REDUCE  MP(PH)  PARALLEL [ TOLERANCE rf_flag 0 ]
+   LVS REDUCE  MP(P5)  PARALLEL [ TOLERANCE rf_flag 0 ]
+   LVS REDUCTION PRIORITY                 PARALLEL
+   
+   LVS SHORT EQUIVALENT NODES             NO
+
+   // Filter
+
+   LVS FILTER  D(dwn2psub)  OPEN
+   LVS FILTER  R(M3OPT)  OPEN
+   LVS FILTER  R(M4OPT)  OPEN
+   LVS FILTER  MT_PROBE_POINT  OPEN
+   LVS FILTER  MF1_PROBE_POINT  OPEN
+
+   // Trace Property
+
+   TRACE PROPERTY  mp  w w 3
+   TRACE PROPERTY  mp  l l 3
+   TRACE PROPERTY  mn  w w 3
+   TRACE PROPERTY  mn  l l 3
+   TRACE PROPERTY  c(cl)  w w 3
+   TRACE PROPERTY  c(cl)  l l 3
+   TRACE PROPERTY  c(cl3)  w w 3
+   TRACE PROPERTY  c(cl3)  l l 3
+   TRACE PROPERTY  c(ch)  w w 3
+   TRACE PROPERTY  c(ch)  l l 3
+   TRACE PROPERTY  c(ch3)  w w 3
+   TRACE PROPERTY  c(ch3)  l l 3
+   TRACE PROPERTY  c(ch53t)  w w 3
+   TRACE PROPERTY  c(ch53t)  l l 3
+   TRACE PROPERTY  c(cm32t)  l l 3
+   TRACE PROPERTY  c(cm32t)  nf nf 0
+   TRACE PROPERTY  c(cm33t)  l l 3
+   TRACE PROPERTY  c(cm33t)  nf nf 0
+   TRACE PROPERTY  c(usgcm32t)  l l 3
+   TRACE PROPERTY  c(usgcm32t)  nf nf 0
+   TRACE PROPERTY  c(usgcm33t)  l l 3
+   TRACE PROPERTY  c(usgcm33t)  nf nf 0
+   TRACE PROPERTY  c(cm42t)  l l 3
+   TRACE PROPERTY  c(cm42t)  nf nf 0
+   TRACE PROPERTY  c(cm43t)  l l 3
+   TRACE PROPERTY  c(cm43t)  nf nf 0
+   TRACE PROPERTY  c(usgcm42t)  l l 3
+   TRACE PROPERTY  c(usgcm42t)  nf nf 0
+   TRACE PROPERTY  c(usgcm43t)  l l 3
+   TRACE PROPERTY  c(usgcm43t)  nf nf 0
+   TRACE PROPERTY  c(cm5)  l l 3
+   TRACE PROPERTY  c(cm5)  nf nf 0
+   TRACE PROPERTY  c(cm53)  l l 3
+   TRACE PROPERTY  c(cm53)  nf nf 0
+   TRACE PROPERTY  c(usgcm52t)  l l 3
+   TRACE PROPERTY  c(usgcm52t)  nf nf 0
+   TRACE PROPERTY  c(usgcm53t)  l l 3
+   TRACE PROPERTY  c(usgcm53t)  nf nf 0
+   TRACE PROPERTY  d(ns)  a a 10
+   TRACE PROPERTY  d(dn)  a a 10
+   TRACE PROPERTY  d(n3)  a a 10
+   TRACE PROPERTY  d(dn50)  a a 10
+   TRACE PROPERTY  d(ps)  a a 10
+   TRACE PROPERTY  d(dp)  a a 10
+   TRACE PROPERTY  d(p3)  a a 10
+   TRACE PROPERTY  d(dp50)  a a 10
+   TRACE PROPERTY  d(nwldio_nc)  a a 10
+   TRACE PROPERTY  d(ns)  p p 10
+   TRACE PROPERTY  d(dn)  p p 10
+   TRACE PROPERTY  d(n3)  p p 10
+   TRACE PROPERTY  d(dn50)  p p 10
+   TRACE PROPERTY  d(ps)  p p 10
+   TRACE PROPERTY  d(dp)  p p 10
+   TRACE PROPERTY  d(p3)  p p 10
+   TRACE PROPERTY  d(dp50)  p p 10
+   TRACE PROPERTY  d(nwldio_nc)  p p 10
+   TRACE PROPERTY  q(vd)  m m 0
+   TRACE PROPERTY  q(vd5)  m m 0
+   TRACE PROPERTY  q(vd10)  m m 0
+   TRACE PROPERTY  q(vh)  m m 0
+   TRACE PROPERTY  q(vh5)  m m 0
+   TRACE PROPERTY  q(vh10)  m m 0
+   TRACE PROPERTY  q(vdn5)  m m 0
+   TRACE PROPERTY  q(vpnp18_s)  a a 10
+   TRACE PROPERTY  q(vpnp33_s)  a a 10
+   TRACE PROPERTY  q(vnpn18_s)  a a 10
+   TRACE PROPERTY  q(vpnp18_s)  p p 10
+   TRACE PROPERTY  q(vpnp33_s)  p p 10
+   TRACE PROPERTY  q(vnpn18_s)  p p 10
+   TRACE PROPERTY  mn(nh)  w w 3
+   TRACE PROPERTY  mn(nh)  l l 3
+   TRACE PROPERTY  mn(n5)  w w 3
+   TRACE PROPERTY  mn(n5)  l l 3
+   TRACE PROPERTY  mn(n)  w w 3
+   TRACE PROPERTY  mn(n)  l l 3
+   TRACE PROPERTY  mn(n18hvt)  w w 3
+   TRACE PROPERTY  mn(n18hvt)  l l 3
+   TRACE PROPERTY  mn(n18lvt)  w w 3
+   TRACE PROPERTY  mn(n18lvt)  l l 3
+   TRACE PROPERTY  mp(p)  w w 3
+   TRACE PROPERTY  mp(p)  l l 3
+   TRACE PROPERTY  mp(p18hvt)  w w 3
+   TRACE PROPERTY  mp(p18hvt)  l l 3
+   TRACE PROPERTY  mp(p18lvt)  w w 3
+   TRACE PROPERTY  mp(p18lvt)  l l 3
+   TRACE PROPERTY  mp(ph)  w w 3
+   TRACE PROPERTY  mp(ph)  l l 3
+   TRACE PROPERTY  mp(p5)  w w 3
+   TRACE PROPERTY  mp(p5)  l l 3
+   TRACE PROPERTY  d(dnpwcpl18)  a a 10
+   TRACE PROPERTY  d(dnpwcpl18)  p p 10
+   TRACE PROPERTY  d(dnpwcpl5)  a a 10
+   TRACE PROPERTY  d(dnpwcpl5)  p p 10
+   TRACE PROPERTY  d(dpnwcpl18)  a a 10
+   TRACE PROPERTY  d(dpnwcpl18)  p p 10
+   TRACE PROPERTY  d(dpnwcpl5)  a a 10
+   TRACE PROPERTY  d(dpnwcpl5)  p p 10
+
+
+
+                   CELL COMPARISON RESULTS ( TOP LEVEL )
+
+
+
+                  #   #         #####################  
+                   # #          #                   #  
+                    #           #     INCORRECT     #  
+                   # #          #                   #  
+                  #   #         #####################  
+
+
+  Error:    Different numbers of ports (see below).
+  Warning:  Ambiguity points were found and resolved arbitrarily.
+
+LAYOUT CELL NAME:         pqc_top_wrapper
+SOURCE CELL NAME:         pqc_top_wrapper
+
+--------------------------------------------------------------------------------------------------------------
+
+INITIAL NUMBERS OF OBJECTS
+--------------------------
+
+                Layout    Source         Component Type
+                ------    ------         --------------
+ Ports:             16        12    *
+
+ Nets:             466       450    *
+
+ Instances:        725       664    *    MN (4 pins)
+                   730       663    *    MP (4 pins)
+                    16        16         C (2 pins)
+                   175       175         R (2 pins)
+                   297        41    *    D (2 pins)
+                ------    ------
+ Total Inst:      1943      1559
+
+
+NUMBERS OF OBJECTS AFTER TRANSFORMATION
+---------------------------------------
+
+                Layout    Source         Component Type
+                ------    ------         --------------
+ Ports:             16        12    *
+
+ Nets:             366       366
+
+ Instances:        148       148         MN (4 pins)
+                   132       132         MP (4 pins)
+                    16        16         C (2 pins)
+                   128       128         R (2 pins)
+                    11        11         D (2 pins)
+                   126       126         INV (2 pins)
+                    18        18         NAND2 (3 pins)
+                     1         1         NAND3 (4 pins)
+                     1         1         NOR2 (3 pins)
+                     2         2         NOR3 (4 pins)
+                     1         1         OAI_2_1 (4 pins)
+                     1         1         SPDW_2_1 (4 pins)
+                     7         7         SMP2 (4 pins)
+                     1         1         SPMP((2+1)*1) (6 pins)
+                ------    ------
+ Total Inst:       593       593
+
+
+       * = Number of objects in layout different from number in source.
+
+
+
+**************************************************************************************************************
+                                 INCORRECT OBJECTS
+**************************************************************************************************************
+
+
+LEGEND:
+-------
+
+  ne  = Naming Error (same layout name found in source
+        circuit, but object was matched otherwise).
+
+
+**************************************************************************************************************
+                                   INCORRECT PORTS
+
+DISC#  LAYOUT NAME                                               SOURCE NAME
+**************************************************************************************************************
+
+  1    VDD_CORE on net: VDD_CORE                                 ** missing port **
+  2    VSS_CORE on net: VSS_CORE                                 ** missing port **
+  3    VSSO_CORE on net: VSSO_CORE                               ** missing port **
+  4    VDDO_CORE on net: VDDO_CORE                               ** missing port **
+
+
+
+**************************************************************************************************************
+                               INFORMATION AND WARNINGS
+**************************************************************************************************************
+
+
+                  Matched    Matched    Unmatched    Unmatched    Component
+                   Layout     Source       Layout       Source    Type
+                  -------    -------    ---------    ---------    ---------
+   Ports:              12         12            4            0
+
+   Nets:              366        366            0            0
+
+   Instances:          49         49            0            0    MN(N)
+                       99         99            0            0    MN(NH)
+                       48         48            0            0    MP(P)
+                       84         84            0            0    MP(PH)
+                       16         16            0            0    C(CH)
+                       58         58            0            0    R(RD)
+                       15         15            0            0    R(RE)
+                       55         55            0            0    R(RW)
+                        9          9            0            0    D(DN)
+                        2          2            0            0    D(P3)
+                      126        126            0            0    INV
+                       18         18            0            0    NAND2
+                        1          1            0            0    NAND3
+                        1          1            0            0    NOR2
+                        2          2            0            0    NOR3
+                        1          1            0            0    OAI_2_1
+                        1          1            0            0    SPDW_2_1
+                        7          7            0            0    SMP2
+                        1          1            0            0    SPMP((2+1)*1)
+                  -------    -------    ---------    ---------
+   Total Inst:        593        593            0            0
+
+
+o Statistics:
+
+   16 isolated layout nets were deleted.
+
+   968 layout mos transistors were reduced to 166.
+     802 mos transistors were deleted by parallel reduction.
+   756 source mos transistors were reduced to 82.
+     674 mos transistors were deleted by parallel reduction.
+
+   94 series layout resistors were reduced to 47.  47 connecting nets were deleted.
+   94 series source resistors were reduced to 47.  47 connecting nets were deleted.
+
+   288 parallel layout diodes were reduced to 2.
+   32 parallel source diodes were reduced to 2.
+
+   29 nets were matched arbitrarily.
+
+
+o Layout Names That Are Missing In The Source:
+
+   Ports:        VDD_CORE VSS_CORE VSSO_CORE VDDO_CORE
+
+
+o Initial Correspondence Points:
+
+   Ports:        done_led led[0] led[1] led[2] led[3] clk start sw[0] rst_n sw[1] sw[2] sw[3]
+   Nets:         VDD_CORE VSS_CORE VSSO_CORE VDDO_CORE
+
+
+o Ambiguity Resolution Points:
+
+      (Each one of the following objects belongs to a group of indistinguishable objects.
+       The listed objects were matched arbitrarily by the Ambiguity Resolution feature of LVS.
+       Arbitrary matching may be prevented by assigning names to these objects or to adjacent nets).
+
+       Layout                                                    Source
+       ------                                                    ------
+
+                                     Nets
+                                     ----
+
+       X125/7                                                    Xpc3o01_dummy1/U29_U69_padr
+       X126/7                                                    Xpc3o01_dummy2/U29_U69_padr
+       X49/6                                                     Xpv0i_VSS_1/U31_U18_r1
+       X50/6                                                     Xpv0i_VSS_2/U31_U18_r1
+       X51/6                                                     Xpv0i_VSS_0/U31_U18_r1
+       X56/6                                                     Xpvdi_VDD_0/U31_U18_r1
+       X55/6                                                     Xpvdi_VDD_1/U31_U18_r1
+       X54/6                                                     Xpvdi_VDD_2/U31_U18_r1
+       X124/5                                                    Xpv0a_VSSO_3/U31_U29_c2
+       X123/5                                                    Xpvda_VDDO_2/U30_U29_c2
+       X122/5                                                    Xpvda_VDDO_0/U30_U29_c2
+       X121/5                                                    Xpv0a_VSSO_0/U31_U29_c2
+       X117/6                                                    Xpv0a_VSSO_2/U31_U29_c2
+       X118/6                                                    Xpv0a_VSSO_1/U31_U29_c2
+       X119/6                                                    Xpvda_VDDO_1/U30_U29_c2
+       X56/5                                                     Xpvdi_VDD_3/U32_U31_r2
+       X55/5                                                     Xpv0i_VSS_2/U33_U31_r2
+       X54/5                                                     Xpv0i_VSS_3/U33_U31_r2
+       X53/5                                                     Xpv0i_VSS_1/U33_U31_r2
+       X52/7                                                     Xpv0i_VSS_0/U33_U31_r2
+       X51/7                                                     Xpvdi_VDD_0/U32_U31_r2
+       X50/7                                                     Xpvdi_VDD_2/U32_U31_r2
+       X124/6                                                    Xpvda_VDDO_0/U19_U22$11_gate
+       X120/7                                                    Xpv0a_VSSO_1/U19_U22$11_gate
+       X123/6                                                    Xpv0a_VSSO_0/U19_U22$11_gate
+       X121/6                                                    Xpv0a_VSSO_3/U19_U22$11_gate
+       X122/6                                                    Xpv0a_VSSO_2/U19_U22$11_gate
+       X119/7                                                    Xpvda_VDDO_1/U19_U22$11_gate
+       X117/7                                                    Xpvda_VDDO_2/U19_U22$11_gate
+
+
+
+**************************************************************************************************************
+                                         SUMMARY
+**************************************************************************************************************
+
+Total CPU Time:      0 sec
+Total Elapsed Time:  0 sec

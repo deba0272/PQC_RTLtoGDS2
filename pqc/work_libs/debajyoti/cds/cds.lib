@@ -1,0 +1,19 @@
+# File Created by  at Tue Jul  7 02:42:26 2026
+# assisted by CdsLibEditor
+# User cds.lib for User debajyoti and Project pqc 
+
+DEFINE pqc_debajyoti /home/debajyoti/projects/pqc/work_libs/debajyoti/cds/design
+
+INCLUDE /home/debajyoti/projects/pqc/cds_master/project.lib
+DEFINE ts18cio150 /mnt/DATA1/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/iopad/cio150/6M1L/cds_oa/ts18cio150
+
+#Removed by ddDeleteObj: DEFINE pqc_chip /home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_chip
+DEFINE ts018_scl_prim_io /mnt/DATA1/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/ts018_scl_prim_io
+DEFINE ts018_scl_prim_std /mnt/DATA1/tools/Cadence/Cadence_lib/scl_pdk_v3/SCLPDK_V3.0_KIT/scl180/ts018_scl_prim_std
+#Removed by ddDeleteObj: DEFINE pqc_chip /home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_chip
+#Removed by ddDeleteObj: DEFINE pqc_chip_1 /home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_chip_1
+#Removed by ddDeleteObj: DEFINE pqc_cc /home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_cc
+DEFINE pqqqc /home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqqqc
+DEFINE pqc_cc /home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc_cc
+DEFINE pqc150debo /home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc150debo
+DEFINE pqc150_iit_new /home/debajyoti/projects/pqc/work_libs/debajyoti/cds/pqc150_iit_new

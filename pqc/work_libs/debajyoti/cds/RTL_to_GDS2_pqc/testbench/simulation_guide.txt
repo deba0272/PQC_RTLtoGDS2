@@ -1,0 +1,2 @@
+Use either SS (slow slow) or FF (fast fast) or tt (typical typical) verilog files for the simulation purpose.
+

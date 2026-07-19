@@ -1,0 +1,6 @@
+mgc_rve_context_lcv "pqqqc" "pqc_top_wrapper" "layout" 1000
+mgc_rve_highlight_index 0 "VDD_CORE" "#00000000FFFF"
+mgc_rve_layer "111"
+mr 667.645 1417.045 675.645 1425.045
+mt "VDD_CORE" 671.645 1421.045 0.1 
+mgc_rve_zoom 665.931 1415.331 677.359 1426.759 1
