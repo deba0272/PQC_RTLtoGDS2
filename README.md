@@ -1085,13 +1085,6 @@ To ensure that the Baby Kyber algorithm behaves exactly as intended before hardw
 - Simulation Logs
 - Testbench Results
 
-> 📷 *Insert RTL waveform screenshot here.*
-
-```markdown
-<img width="1920" height="1080" alt="Screenshot from 2026-07-17 17-32-49" src="https://github.com/user-attachments/assets/1495af5e-d938-4e9a-9644-aa0c430f6aed" />
-
-```
-
 ---
 
 # ⚡ Step 3 – Logic Synthesis
@@ -1151,13 +1144,6 @@ Proper floorplanning is critical because it directly affects congestion, timing,
 - Core Area
 - Utilization Report
 - Initial Timing Report
-
-> 📷 *Insert floorplan screenshot here.*
-
-```markdown
-![Floorplan](docs/images/floorplan.png)
-```
-
 ---
 
 # ⚙️ Step 5 – Standard Cell Placement
@@ -1194,12 +1180,6 @@ This stage removes:
 - Congestion Map
 - Wirelength Report
 
-> 📷 *Insert placement screenshot here.*
-
-```markdown
-![Placement](docs/images/placement.png)
-```
-
 ---
 
 # 🌳 Step 6 – Clock Tree Synthesis (CTS)
@@ -1232,12 +1212,6 @@ After CTS:
 - Skew Report
 - Insertion Delay Report
 
-> 📷 *Insert CTS screenshot here.*
-
-```markdown
-![CTS](docs/images/cts.png)
-```
-
 ---
 
 # 🛣 Step 7 – Routing
@@ -1262,12 +1236,6 @@ Generates exact metal geometries while satisfying all design rules.
 - Routing Report
 
 After routing, parasitic resistance and capacitance are extracted for accurate timing analysis.
-
-> 📷 *Insert routed layout screenshot here.*
-
-```markdown
-![Routing](docs/images/routing.png)
-```
 
 ---
 
@@ -2940,73 +2908,49 @@ The timing characteristics of the Baby Kyber ASIC were evaluated at three differ
 | Manufacturable Layout | ✅ Ready |
 
 ---
-
 # 🖼️ Implementation Gallery
 
 ---
 
 ## Importing Design in Innovus
 
-```markdown
-<img width="1920" height="1080" alt="Screenshot from 2026-07-17 19-50-03" src="https://github.com/user-attachments/assets/b0282f09-cba9-45da-9d8c-6eb687f344e0" />
-
-```
+<img width="1000" alt="Importing Design in Innovus" src="https://github.com/user-attachments/assets/b0282f09-cba9-45da-9d8c-6eb687f344e0" />
 
 ---
 
 ## Floorplan
 
-```markdown
-<img width="1920" height="1080" alt="Screenshot from 2026-07-17 19-50-41" src="https://github.com/user-attachments/assets/d4eb3ee2-7ef3-4f9e-b78a-ff74c6133e6f" />
-
-```
+<img width="1000" alt="Floorplan" src="https://github.com/user-attachments/assets/d4eb3ee2-7ef3-4f9e-b78a-ff74c6133e6f" />
 
 ---
 
 ## Powerplan
 
-```markdown
-<img width="1920" height="1080" alt="Screenshot from 2026-07-17 19-51-19" src="https://github.com/user-attachments/assets/36eb6091-50ed-4d16-9653-892e0ab5fd90" />
-
-```
+<img width="1000" alt="Powerplan" src="https://github.com/user-attachments/assets/36eb6091-50ed-4d16-9653-892e0ab5fd90" />
 
 ---
 
 ## Clock Tree
 
-```markdown
-<img width="1920" height="1080" alt="Screenshot from 2026-07-17 19-57-30" src="https://github.com/user-attachments/assets/b5a17a48-a90d-4326-9823-f6a8fda3094d" />
-
-```
+<img width="1000" alt="Clock Tree" src="https://github.com/user-attachments/assets/b5a17a48-a90d-4326-9823-f6a8fda3094d" />
 
 ---
 
 ## Routing
 
-```markdown
-<img width="1920" height="1080" alt="Screenshot from 2026-07-17 20-09-16 (1)" src="https://github.com/user-attachments/assets/27f00e48-c39c-4c92-95f7-3b14df628ee7" />
-
-```
+<img width="1000" alt="Routing" src="https://github.com/user-attachments/assets/27f00e48-c39c-4c92-95f7-3b14df628ee7" />
 
 ---
 
 ## Post-Route Waveform
 
-```markdown
-<img width="1920" height="1080" alt="Screenshot from 2026-07-17 20-34-25" src="https://github.com/user-attachments/assets/2b63658d-21a6-4e26-a44b-52e7e4e43f59" />
-
-```
+<img width="1000" alt="Post-Route Waveform" src="https://github.com/user-attachments/assets/2b63658d-21a6-4e26-a44b-52e7e4e43f59" />
 
 ---
 
 ## SPICE Simulation
 
-```markdown
-<img width="1920" height="1080" alt="Screenshot from 2026-07-17 22-25-56 (1)" src="https://github.com/user-attachments/assets/044992a2-1e3a-4772-9e07-e61ed3d731a4" />
-
-```
-
----
+<img width="1000" alt="SPICE Simulation" src="https://github.com/user-attachments/assets/044992a2-1e3a-4772-9e07-e61ed3d731a4" />
 
 # 🌟 Project Highlights
 
