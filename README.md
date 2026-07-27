@@ -2943,18 +2943,13 @@ The timing characteristics of the Baby Kyber ASIC were evaluated at three differ
 
 # 🖼️ Implementation Gallery
 
-## RTL Simulation
-
-```markdown
-![RTL Simulation](docs/images/rtl_simulation.png)
-```
-
 ---
 
-## Synthesis
+## Importing Design in Innovus
 
 ```markdown
-![Synthesis](docs/images/synthesis.png)
+<img width="1920" height="1080" alt="Screenshot from 2026-07-17 19-50-03" src="https://github.com/user-attachments/assets/b0282f09-cba9-45da-9d8c-6eb687f344e0" />
+
 ```
 
 ---
@@ -2962,15 +2957,17 @@ The timing characteristics of the Baby Kyber ASIC were evaluated at three differ
 ## Floorplan
 
 ```markdown
-![Floorplan](docs/images/floorplan.png)
+<img width="1920" height="1080" alt="Screenshot from 2026-07-17 19-50-41" src="https://github.com/user-attachments/assets/d4eb3ee2-7ef3-4f9e-b78a-ff74c6133e6f" />
+
 ```
 
 ---
 
-## Placement
+## Powerplan
 
 ```markdown
-![Placement](docs/images/placement.png)
+<img width="1920" height="1080" alt="Screenshot from 2026-07-17 19-51-19" src="https://github.com/user-attachments/assets/36eb6091-50ed-4d16-9653-892e0ab5fd90" />
+
 ```
 
 ---
@@ -2978,7 +2975,8 @@ The timing characteristics of the Baby Kyber ASIC were evaluated at three differ
 ## Clock Tree
 
 ```markdown
-![Clock Tree](docs/images/clock_tree.png)
+<img width="1920" height="1080" alt="Screenshot from 2026-07-17 19-57-30" src="https://github.com/user-attachments/assets/b5a17a48-a90d-4326-9823-f6a8fda3094d" />
+
 ```
 
 ---
@@ -2986,7 +2984,8 @@ The timing characteristics of the Baby Kyber ASIC were evaluated at three differ
 ## Routing
 
 ```markdown
-![Routing](docs/images/routing.png)
+<img width="1920" height="1080" alt="Screenshot from 2026-07-17 20-09-16 (1)" src="https://github.com/user-attachments/assets/27f00e48-c39c-4c92-95f7-3b14df628ee7" />
+
 ```
 
 ---
@@ -2994,7 +2993,8 @@ The timing characteristics of the Baby Kyber ASIC were evaluated at three differ
 ## Post-Route Waveform
 
 ```markdown
-![Post Route Simulation](docs/images/post_route_waveform.png)
+<img width="1920" height="1080" alt="Screenshot from 2026-07-17 20-34-25" src="https://github.com/user-attachments/assets/2b63658d-21a6-4e26-a44b-52e7e4e43f59" />
+
 ```
 
 ---
@@ -3002,7 +3002,8 @@ The timing characteristics of the Baby Kyber ASIC were evaluated at three differ
 ## SPICE Simulation
 
 ```markdown
-![SPICE Simulation](docs/images/spice_waveform.png)
+<img width="1920" height="1080" alt="Screenshot from 2026-07-17 22-25-56 (1)" src="https://github.com/user-attachments/assets/044992a2-1e3a-4772-9e07-e61ed3d731a4" />
+
 ```
 
 ---
